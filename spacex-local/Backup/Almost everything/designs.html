@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Designs — SpaceX Design Interiors</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <script src="designs-manifest.js"></script>
+</head>
+<body>
+  <div class="page">
+    <header class="nav">
+      <div class="wrap nav__row nav-spaced">
+        <div class="brand">
+          <img src="assets/logo.png" alt="SpaceX Design Interiors logo" onerror="this.style.display='none'">
+          <span class="brand-gold">SpaceX Design Interiors</span>
+        </div>
+        <nav class="menu nav-bar">
+          <a href="index.html" class="menu__link home-link">Home</a>
+          <a href="services.html" class="menu__link services-link">Services</a>
+          <a href="designs.html" class="menu__link designs-link is-active">Designs</a>
+          <a href="#" class="menu__link contact-link">Contact-Us</a>
+        </nav>
+      </div>
+    </header>
+    <div class="wrap" style="margin-top:28px;">
+      <section class="tiles designs-tiles">
+        <div class="tiles__grid" id="designTiles"></div>
+      </section>
+    </div>
+    <footer class="strip" id="contactFooter" style="display:none;">
+      <div class="wrap strip__grid">
+        <div class="strip__links">
+          <a class="strip__item" href="index.html" aria-label="Logo">
+            <img src="assets/logo.png" alt="Logo" class="footer-icon">
+          </a>
+          <a class="strip__item" href="https://wa.me/916309186764" target="_blank" aria-label="WhatsApp">
+            <img src="assets/whatsapp.svg" alt="WhatsApp" class="footer-icon">
+            WhatsApp
+          </a>
+          <a class="strip__item" href="https://www.instagram.com/spacex_designinteriors" target="_blank" aria-label="Instagram">
+            <img src="assets/instagram.svg" alt="Instagram" class="footer-icon">
+            Instagram
+          </a>
+          <a class="strip__item" href="https://youtube.com/@spacexdesigninteriors" target="_blank" aria-label="YouTube">
+            <img src="assets/youtube.svg" alt="YouTube" class="footer-icon">
+            YouTube
+          </a>
+          <a class="strip__item" href="mailto:info@spacexdesigninteriors.com" aria-label="Email">
+            <img src="assets/mail.svg" alt="Email" class="footer-icon">
+            info@spacexdesigninteriors.com
+          </a>
+          <a class="strip__item" href="tel:+916309186764" aria-label="Phone">
+            <img src="assets/phone.svg" alt="Phone" class="footer-icon">
+            +91-6309186764
+          </a>
+        </div>
+        <form class="strip__form" action="https://formspree.io/f/your-form-id" method="POST">
+          <input name="name" placeholder="Name" required />
+          <input name="mobile" placeholder="Mobile Number" required />
+          <textarea name="requirement" placeholder="Requirement" rows="1" required></textarea>
+          <input type="hidden" name="_subject" value="Website Enquiry — SpaceX Design Interiors" />
+          <button type="submit">Enquire</button>
+        </form>
+      </div>
+    </footer>
+  </div>
+  <a class="fab" href="https://wa.me/916309186764" target="_blank" aria-label="WhatsApp">
+    <img src="assets/whatsapp.svg" alt="WhatsApp" style="width:32px;height:32px;">
+  </a>
+  <script src="designs.js"></script>
+</body>
+</html>
