@@ -2,67 +2,147 @@ window.__DESIGNS_MEDIA = {
   "Kitchen Designs": [
     {
       "type": "image",
-      "src": "assets/kitchen/IMG-20240307-WA0007.jpg"
+      "src": "assets/kitchen/kit1.jpg"
     },
     {
       "type": "image",
-      "src": "assets/kitchen/IMG-20240307-WA0009.jpg"
+      "src": "assets/kitchen/kit10.jpg"
     },
     {
       "type": "image",
-      "src": "assets/kitchen/IMG-20240323-WA0002.jpg"
+      "src": "assets/kitchen/kit11.jpg"
     },
     {
       "type": "image",
-      "src": "assets/kitchen/IMG_20241102_112627.jpg"
+      "src": "assets/kitchen/kit12.jpg"
     },
     {
       "type": "image",
-      "src": "assets/kitchen/IMG_20241102_112655.jpg"
+      "src": "assets/kitchen/kit13.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit14.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit15.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit16.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit17.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit18.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit2.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit3.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit4.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit5.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit6.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit7.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit8.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/kitchen/kit9.jpg"
     }
   ],
   "Bed Room Designs": [
     {
       "type": "image",
-      "src": "assets/bedroom/IMG-20231103-WA0031.jpg"
+      "src": "assets/bedroom/war1.jpg"
     },
     {
       "type": "image",
-      "src": "assets/bedroom/IMG-20231103-WA0033.jpg"
+      "src": "assets/bedroom/war2.jpg"
     },
     {
       "type": "image",
-      "src": "assets/bedroom/IMG-20231104-WA0039.jpg"
+      "src": "assets/bedroom/war3.jpg"
     },
     {
       "type": "image",
-      "src": "assets/bedroom/IMG-20231104-WA0059.jpg"
+      "src": "assets/bedroom/war4.jpg"
     },
     {
       "type": "image",
-      "src": "assets/bedroom/IMG_20241217_224417.jpg"
+      "src": "assets/bedroom/war5.jpg"
     },
     {
       "type": "image",
-      "src": "assets/bedroom/IMG_20241217_224436.jpg"
+      "src": "assets/bedroom/war6.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/bedroom/war7.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/bedroom/war8.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/bedroom/war9.jpg"
     }
   ],
   "Crockery Designs": [
     {
       "type": "image",
-      "src": "assets/crockery/crock1.jpg"
+      "src": "assets/crockery/croc2.jpg"
     },
     {
       "type": "image",
-      "src": "assets/crockery/crock2.jpg"
+      "src": "assets/crockery/croc3.jpg"
     },
     {
       "type": "image",
-      "src": "assets/crockery/crock3.jpg"
+      "src": "assets/crockery/croc4.jpg"
     },
     {
       "type": "image",
-      "src": "assets/crockery/crock4.jpg"
+      "src": "assets/crockery/croc5.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/crockery/croc6.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/crockery/croc7.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/crockery/croc8.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/crockery/croc9.jpg"
     }
   ],
   "Living Area Designs": [
@@ -94,6 +174,42 @@ window.__DESIGNS_MEDIA = {
     },
     {
       "type": "image",
+      "src": "assets/tvunit/tv10.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv11.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv12.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv13.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv14.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv15.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv16.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv17.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv18.jpg"
+    },
+    {
+      "type": "image",
       "src": "assets/tvunit/tv2.jpg"
     },
     {
@@ -107,50 +223,102 @@ window.__DESIGNS_MEDIA = {
     {
       "type": "image",
       "src": "assets/tvunit/tv5.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv6.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv7.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv8.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/tvunit/tv9.jpg"
     }
   ],
   "Pooja Room Designs": [
     {
       "type": "image",
-      "src": "assets/pooja/374638755726422230250.jpeg"
+      "src": "assets/pooja/pooja1.jpeg"
     },
     {
       "type": "image",
-      "src": "assets/pooja/FAD886C3-D6EA-48E5-A87D-9ABB3CBBF4F3.png"
+      "src": "assets/pooja/pooja2.jpeg"
     },
     {
       "type": "image",
-      "src": "assets/pooja/IMG-20240502-WA0027.jpg"
+      "src": "assets/pooja/pooja3.jpeg"
     },
     {
       "type": "image",
-      "src": "assets/pooja/IMG-20240628-WA0021.jpg"
+      "src": "assets/pooja/pooja4.jpeg"
     },
     {
       "type": "image",
-      "src": "assets/pooja/IMG-20241209-WA0013.jpg"
+      "src": "assets/pooja/pooja5.jpeg"
+    },
+    {
+      "type": "image",
+      "src": "assets/pooja/pooja6.jpeg"
+    },
+    {
+      "type": "image",
+      "src": "assets/pooja/pooja7.jpeg"
     }
   ],
   "False Ceiling Designs": [
     {
       "type": "image",
-      "src": "assets/falseceiling/ceil1.jpg"
+      "src": "assets/falseceiling/fal1.jpg"
     },
     {
       "type": "image",
-      "src": "assets/falseceiling/ceil2.jpg"
+      "src": "assets/falseceiling/fal10.jpg"
     },
     {
       "type": "image",
-      "src": "assets/falseceiling/ceil3.jpg"
+      "src": "assets/falseceiling/fal11.jpg"
     },
     {
       "type": "image",
-      "src": "assets/falseceiling/ceil4.jpg"
+      "src": "assets/falseceiling/fal12.jpg"
     },
     {
       "type": "image",
-      "src": "assets/falseceiling/ceil5.jpg"
+      "src": "assets/falseceiling/fal2.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/falseceiling/fal3.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/falseceiling/fal4.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/falseceiling/fal5.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/falseceiling/fal6.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/falseceiling/fal7.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/falseceiling/fal8.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/falseceiling/fal9.jpg"
     }
   ]
 };
