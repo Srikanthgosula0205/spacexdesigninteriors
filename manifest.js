@@ -118,25 +118,26 @@ window.__MEDIA = {
   "Wallpapers": [
     {
       "type": "image",
-      "src": "assets/wallpapers/wal1.jpg"
+      "src": "assets/wallpapers/wal1.png"
     },
     {
       "type": "image",
-      "src": "assets/wallpapers/wal2.jpg"
+      "src": "assets/wallpapers/wal2.png"
     },
     {
       "type": "image",
-      "src": "assets/wallpapers/wal3.jpg"
+      "src": "assets/wallpapers/wal3.png"
     },
     {
       "type": "image",
-      "src": "assets/wallpapers/wal4.jpg"
+      "src": "assets/wallpapers/wal4.png"
     },
     {
       "type": "image",
-      "src": "assets/wallpapers/wal5.jpg"
+      "src": "assets/wallpapers/wal5.png"
     }
   ]
 };
+
 
 
