@@ -39,10 +39,6 @@ window.__MEDIA = {
     {
       "type": "image",
       "src": "assets/woodworks/croc8.jpg"
-    },      
-    {
-      "type": "image",
-      "src": "assets/woodworks/croc9.jpg"
     }
   ],
   "False Ceiling Designs": [
@@ -66,18 +62,7 @@ window.__MEDIA = {
       "type": "image",
       "src": "assets/falseceiling/ceil5.jpg"
     },
-    {
-      "type": "image",
-      "src": "assets/falseceiling/fal1.jpg"
-    },
-    {
-      "type": "image",
-      "src": "assets/falseceiling/fal2.jpg"
-    },
-    {
-      "type": "image",
-      "src": "assets/falseceiling/fal3.jpg"
-    },
+    
     {
       "type": "image",
       "src": "assets/falseceiling/fal4.jpg"
@@ -97,10 +82,6 @@ window.__MEDIA = {
     {
       "type": "image",
       "src": "assets/falseceiling/fal8.jpg"
-    },
-    {
-      "type": "image",
-      "src": "assets/falseceiling/fal9.jpg"
     },
     {
       "type": "image",
@@ -138,6 +119,7 @@ window.__MEDIA = {
     }
   ]
 };
+
 
 
 
