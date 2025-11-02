@@ -10,19 +10,39 @@ window.__MEDIA = {
     },
     {
       "type": "image",
-      "src": "assets/woodworks/wood3.jpg"
+      "src": "assets/woodworks/croc1.jpg"
     },
     {
       "type": "image",
-      "src": "assets/woodworks/wood4.jpg"
+      "src": "assets/woodworks/croc2.jpg"
     },
     {
       "type": "image",
-      "src": "assets/woodworks/wood5.jpg"
+      "src": "assets/woodworks/croc3.jpg"
     },
     {
       "type": "image",
-      "src": "assets/woodworks/wood6.jpg"
+      "src": "assets/woodworks/croc4.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/woodworks/croc5.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/woodworks/croc6.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/woodworks/croc7.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/woodworks/croc8.jpg"
+    },      
+    {
+      "type": "image",
+      "src": "assets/woodworks/croc9.jpg"
     }
   ],
   "False Ceiling Designs": [
@@ -62,3 +82,4 @@ window.__MEDIA = {
     }
   ]
 };
+
